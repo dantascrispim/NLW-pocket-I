@@ -1,11 +1,21 @@
 
-function start(){
-    let count = 0;
+const start = () => {
+    
 
-    while(count < 10) {
-        console.log(count)
-        count++
+    while(true) {
         
+        let opcao = "sair"
+        switch(opcao) {
+            case "Cadastrar":
+                console.log("Vamos Cadastrar");
+                break;
+            case "listar":
+                console.log("vamos listar");
+                break;
+            case "sair":
+                return
+            
+        }
     }
 }
 
