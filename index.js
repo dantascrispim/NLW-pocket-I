@@ -1,5 +1,5 @@
 
-const start = () => {
+/*const start = () => {
     
 
     while(true) {
@@ -20,4 +20,8 @@ const start = () => {
 }
 
 
-start()
+start()*/
+
+
+
+console.log("vamos cadastrar")
