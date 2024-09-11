@@ -1,4 +1,18 @@
 
-let metas = ["Dantas", "olá"];
+let metas = {
+    value: 'ler um livro por mês',
+    checked: false,
+    isChecked: (info) => {
 
-console.log(metas[1] + " " + metas[0])
+    }
+};
+
+console.log(metas.value)
+metas.isChecked(metas.value)
+
+// function // arrow function
+
+const criarMetas = () => {
+
+}
+
