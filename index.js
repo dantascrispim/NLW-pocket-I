@@ -7,7 +7,7 @@ const start = () => {
         let opcao = "sair"
         switch(opcao) {
             case "Cadastrar":
-                console.log("Vamos Cadastrar");
+                console.log("vamos Cadastrar");
                 break;
             case "listar":
                 console.log("vamos listar");
