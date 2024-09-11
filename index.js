@@ -1,18 +1,19 @@
 
-let metas = {
+let meta = {
     value: 'ler um livro por mês',
-    checked: false,
-    isChecked: (info) => {
-
-    }
+    checked: true,
+    
 };
 
-console.log(metas.value)
-metas.isChecked(metas.value)
+let metas = [
+    meta,
+    {
+        value: 'assistir um filme por dia',
+        checked: false,
+    }
+]
 
-// function // arrow function
+console.log(metas[0].value)
 
-const criarMetas = () => {
 
-}
 
