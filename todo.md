@@ -1,13 +1,11 @@
 
-Criar metas 
+[x] Criar metas 
 
-Listar metas 
+[x] Listar metas 
+   - Metas realizadas 
+   - Metas abertas 
 
-Metas realizadas 
+[x] Marcar/Desmarcar metas realizadas 
+[] Remover metas 
 
-Metas abertas 
-
-Marcar/Desmarcar metas realizadas 
-Remover metas 
-
-Sistema de mensages
+[] Sistema de mensages
