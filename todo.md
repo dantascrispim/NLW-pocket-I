@@ -9,3 +9,4 @@
 [x] Remover metas 
 
 [x] Sistema de mensages
+[x] persisite Dados
