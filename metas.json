@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "value": "Caminhar 20 minutos",
+    "checked": false
+  },
+  {
+    "value": "Fazer exercício 2 x ao dia",
+    "checked": false
+  }
+]
